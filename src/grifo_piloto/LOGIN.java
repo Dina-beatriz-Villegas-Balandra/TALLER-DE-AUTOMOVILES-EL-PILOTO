@@ -131,8 +131,8 @@ public class LOGIN extends javax.swing.JFrame {
 
     private void INGRESARMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_INGRESARMouseClicked
 
-        String Usuario = "piloto";
-        String contraseña ="grifo";
+        String Usuario = "gerente";
+        String contraseña ="piloto";
         
         String pass=new String(PASS_CONTRASEÑA.getPassword());
         
