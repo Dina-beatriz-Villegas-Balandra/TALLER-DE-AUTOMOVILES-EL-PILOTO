@@ -135,8 +135,11 @@ public class LOGIN extends javax.swing.JFrame {
         String contraseña ="piloto";
         
         String pass=new String(PASS_CONTRASEÑA.getPassword());
+        String user=new String(INGRESAR.getText());
+        if(user.equals(Usuario)&& pass.equals(contraseña));
         
-        if (TXT_USUARIO.getText().equals(Usuario)&& equals(contraseña));
+        
+        
         
         // TODO add your handling code here:
     }//GEN-LAST:event_INGRESARMouseClicked
