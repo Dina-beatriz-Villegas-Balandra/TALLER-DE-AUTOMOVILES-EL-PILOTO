@@ -131,6 +131,7 @@ public class LOGIN extends javax.swing.JFrame {
         
         String pass=new String(PASS_CONTRASEÑA.getPassword());
         
+        if (TXT_USUARIO.getText().equals(Usuario)&& equals(contraseña));
         
         // TODO add your handling code here:
     }//GEN-LAST:event_INGRESARMouseClicked
