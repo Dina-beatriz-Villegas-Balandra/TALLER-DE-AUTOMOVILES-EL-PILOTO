@@ -139,9 +139,9 @@ public class LOGIN extends javax.swing.JFrame {
         if(user.equals(Usuario)&& pass.equals(contraseña));
         
         
-        
-        
-        // TODO add your handling code here:
+        pagina_principal p1= new pagina_principal();
+p1.setVisible(true)        ;// TODO addyour handling code here:
+
     }//GEN-LAST:event_INGRESARMouseClicked
 
     private void INGRESARActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_INGRESARActionPerformed
