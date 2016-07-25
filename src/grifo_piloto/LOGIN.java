@@ -165,7 +165,7 @@ public class LOGIN extends javax.swing.JFrame {
         
         
         pagina_principal p1= new pagina_principal();
-p1.setVisible(true)        ;// TODO addyour handling code here:
+        p1.setVisible(true)        ;// TODO addyour handling code here:
 
     }//GEN-LAST:event_INGRESARMouseClicked
 
